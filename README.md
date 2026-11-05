@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ghassan
 
-A 5th-semester Computer Engineering student at Telkom University with a strong focus on **computer networking, hardware architecture, and infrastructure**. I am passionate about system-level operations and aiming to build scalable solutions as a future Data Center, DevOps, or MLOps Engineer.
+Computer Engineering student at Telkom University with a strong focus on **computer networking, hardware architecture, and infrastructure**. I am passionate about system-level operations and aiming to build scalable solutions as a future Data Center, DevOps, or MLOps Engineer.
 
 ---
 
@@ -43,11 +43,6 @@ A 5th-semester Computer Engineering student at Telkom University with a strong f
 
 ---
 
-## 📊 GitHub Stats
-
-![Ghassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghassan193&show_icons=true&theme=dark)
-
----
 
 ## 📫 Get In Touch
 
