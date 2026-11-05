@@ -1,40 +1,51 @@
 # 👋 Hi, I'm Ghassan
 
-A Computer Engineering student at Telkom University passionate about solving complex problems through programming and innovative technology solutions.
+A 5th-semester Computer Engineering student at Telkom University with a strong focus on **computer networking, hardware architecture, and infrastructure**. I am passionate about system-level operations and aiming to build scalable solutions as a future Data Center, DevOps, or MLOps Engineer.
 
 ---
 
 ## 🚀 About Me
 
-✨ Learning the fundamentals of computer science and engineering  
-📚 Currently expanding my knowledge in algorithms, data structures, and software development  
-🎯 Goals: Build a strong foundation in programming and contribute to meaningful tech projects  
-🎲 Fun fact: I enjoy exploring how things work at the system level
+✨ Specializing in computer networks, hardware specifications, and system infrastructure over traditional software engineering.  
+📚 Currently expanding my expertise in **Cloud Computing, DevOps practices, and Machine Learning Operations (MLOps)**.  
+🎯 Goals: Building a robust portfolio to secure remote engineering roles with global tech companies.  
+🤝 Community: Active learner and participant in industry events like AWS Community Day and Google Developer Group
 
 ---
 
-## 💻 Tech Stack
+## 🔭 Recent Projects
+
+- **i-Smile (Machine Learning):** Developed a predictive model for obesity potential based on physical activity frequency. Processed Kaggle datasets and implemented K-Nearest Neighbors (KNN), Decision Tree, and Random Forest algorithms.
+- **STM32 Microprocessor Simulation:** Configured and programmed an STM32 Nucleo board simulation using Assembly language (`main.S`) and `diagram.json` within the Wokwi environment.
+
+---
+
+## 💻 Tech Stack & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img width="12" />
+ 
 </div>
 
 ---
 
 ## 🏆 Key Skills
 
-- **Programming Languages:** C, Python
-- **Core Concepts:** Data Structures, Algorithms, Object-Oriented Programming
-- **Problem Solving:** Competitive Programming, Debugging
-- **Tools:** Git, Command Line, Code Documentation
+- **Engineering Core:** Computer Networking, Hardware Architecture, Microprocessors (Assembly/STM32)
+- **Programming & Data:** Python, C, Assembly, Machine Learning (Scikit-Learn, Pandas)
+- **Infrastructure Interest:** DevOps, MLOps, Data Center Engineering
+- **Tools:** Git, Linux Command Line, Wokwi
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghassan193&show_icons=true&theme=dark)
+![Ghassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghassan193&show_icons=true&theme=dark)
 
 ---
 
@@ -42,6 +53,7 @@ A Computer Engineering student at Telkom University passionate about solving com
 
 - **GitHub:** [@ghassan193](https://github.com/ghassan193)
 
+
 ---
 
-*Last updated: 2026-05-03*
+*Last updated: November 2026*
